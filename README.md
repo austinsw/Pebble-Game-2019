@@ -1,5 +1,7 @@
 # Pebble-Game
 
+Multithreaded game & test suite, created using JavaScript and JUnit 4 in 2019.
+
 ## Requirements
 
 In this assignment you are to model a game involving multiple competing players, in a thread-safe fashion. The game being modelled has a strictly positive number of players. There are six bags of pebbles in the game, three white bags (A, B and C) and three black bags (X, Y and Z). At the start of the game the white bags are empty and the black bags are full. Each player takes 10 pebbles from a black bag (the black bag each player selects is chosen at random). Each pebble has an integer weight value.
