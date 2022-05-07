@@ -1,6 +1,6 @@
 # Pebble-Game
 
-Multithreaded game & test suite, created using JavaScript and JUnit 4 in 2019.
+Multithreaded game & test suite, created using Java and JUnit 4 in 2019.
 
 ## Requirements
 
